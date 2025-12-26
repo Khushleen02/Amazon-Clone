@@ -1,4 +1,4 @@
-## OUTUT
+## OUTPUT
 <img width="1919" height="966" alt="Screenshot 2025-11-06 005539" src="https://github.com/user-attachments/assets/9dde494a-e41e-4a5e-a578-3f262c06965e" />
 <img width="1919" height="883" alt="Screenshot 2025-11-06 021603" src="https://github.com/user-attachments/assets/6c7bf7dd-14c3-4b4d-8ba0-47006e80d231" />
 <img width="1919" height="972" alt="Screenshot 2025-11-06 021409" src="https://github.com/user-attachments/assets/50ceae87-4f58-49eb-acd2-26b1f37a9097" />
